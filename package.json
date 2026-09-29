@@ -1,0 +1,9 @@
+{
+  "name": "konversi-suhu",
+  "version": "1.0.0",
+  "description": "Program konversi suhu sederhana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
